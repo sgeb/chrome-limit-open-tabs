@@ -2,7 +2,7 @@
     "manifest_version": 2,    
     "name": "Limit Open Tabs",
     "version": "0.1",
-    "description": "Helps compulsive tab openers by limiting the number of tabs chrome will open.",
+    "description": "Helps compulsive tab openers by limiting the number of tabs they can open.",
     "background": {
         "scripts": ["background.js"]
     },
