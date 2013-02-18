@@ -1,6 +1,6 @@
 # chrome-limit-open-tabs
 
-A Chrome extension helping compulsive tab openers by limiting the number of tabs they can open.
+A Chrome extension helping compulsive tab-openers by limiting the number of tabs they can open.
 
 In the current state this extension does not disallow Chrome from opening tabs. It simply displays the number of open unpinned tabs as a badge in the icon bar.
 
