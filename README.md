@@ -4,6 +4,8 @@ A Chrome extension helping compulsive tab openers by limiting the number of tabs
 
 In the current state this extension does not disallow Chrome from opening tabs. It simply displays the number of open tabs as a badge in the icon bar.
 
+![Screenshot](https://raw.github.com/sgeb/chrome-limit-open-tabs/master/chrome-limit-open-tabs.png)
+
 ## TODO / Feature backlog
 - disallow Chrome from opening tabs when limit reached
 - options screen to customize the limit of open tabs
